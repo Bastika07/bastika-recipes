@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>DOWNLOAD_URL</key>
-        <string>http://tigercreate.com/app/TigerCreate/updates/TigerCreate.dmg</string>
+        <string>http://backend.tigercreate.com/TigerCreate/updates/TigerCreate.dmg</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.0</string>

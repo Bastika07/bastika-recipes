@@ -11,7 +11,7 @@
         <key>NAME</key>
         <string>TigerCreate</string>
         <key>DOWNLOAD_URL</key>
-        <string>http://tigercreate.com/app/TigerCreate/updates/TigerCreate.dmg</string>
+        <string>http://backend.tigercreate.com/TigerCreate/updates/TigerCreate.dmg</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
